@@ -49,6 +49,13 @@ I am **interested in open-source software** and enjoy **contributing to projects
 - I’m passionate about **improving code quality and documentation** ✍️
 
 ---
+## 📫 Contact Me
+
+- Website: mzahrani.ir
+- Email: mahdizahrani76@gmail.com 
+- LinkedIn: [https://www.linkedin.com/in/mahdi-zahrani-a64ab71b1/](https://linkedin.com)  
+- GitHub: [github.com/MahdiZahrani](https://github.com/MahdiZahrani)  
+
 <!-- 
 
 ## ⚡ GitHub Stats
